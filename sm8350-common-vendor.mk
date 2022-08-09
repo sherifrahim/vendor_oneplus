@@ -531,28 +531,8 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8350-common/proprietary/odm/firmware/500ms_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/500ms_RTP.bin \
     vendor/oneplus/sm8350-common/proprietary/odm/firmware/60ms_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/60ms_RTP.bin \
     vendor/oneplus/sm8350-common/proprietary/odm/firmware/80ms_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/80ms_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/AT500ms_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/AT500ms_RTP.bin \
     vendor/oneplus/sm8350-common/proprietary/odm/firmware/VZW_Alrwave_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/VZW_Alrwave_RTP.bin \
     vendor/oneplus/sm8350-common/proprietary/odm/firmware/Version_Alert_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/Version_Alert_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/alarm_Alarm_clock_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/alarm_Alarm_clock_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/alarm_Beep_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/alarm_Beep_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/alarm_Breeze_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/alarm_Breeze_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/alarm_Dawn_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/alarm_Dawn_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/alarm_Dream_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/alarm_Dream_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/alarm_Fluttering_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/alarm_Fluttering_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/alarm_Flyer_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/alarm_Flyer_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/alarm_Interesting_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/alarm_Interesting_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/alarm_Leisurely_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/alarm_Leisurely_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/alarm_Memory_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/alarm_Memory_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/alarm_Relieved_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/alarm_Relieved_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/alarm_Ripple_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/alarm_Ripple_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/alarm_Slowly_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/alarm_Slowly_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/alarm_Stars_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/alarm_Stars_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/alarm_Surging_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/alarm_Surging_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/alarm_The_wind_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/alarm_The_wind_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/alarm_Walking_in_the_rain_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/alarm_Walking_in_the_rain_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/alarm_spring_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/alarm_spring_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/alarm_tactfully_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/alarm_tactfully_RTP.bin \
     vendor/oneplus/sm8350-common/proprietary/odm/firmware/aw8697_haptic.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_haptic.bin \
     vendor/oneplus/sm8350-common/proprietary/odm/firmware/aw8697_haptic_166.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_haptic_166.bin \
     vendor/oneplus/sm8350-common/proprietary/odm/firmware/aw8697_haptic_168.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_haptic_168.bin \
@@ -562,69 +542,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8350-common/proprietary/odm/firmware/aw8697_rtp.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_rtp.bin \
     vendor/oneplus/sm8350-common/proprietary/odm/firmware/aw8697_rtp_lighthouse.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_rtp_lighthouse.bin \
     vendor/oneplus/sm8350-common/proprietary/odm/firmware/aw8697_rtp_silk.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_rtp_silk.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/awinic_haptic_gun_params.bin:$(TARGET_COPY_OUT_ODM)/firmware/awinic_haptic_gun_params.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/awinic_haptic_params.bin:$(TARGET_COPY_OUT_ODM)/firmware/awinic_haptic_params.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Allay_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Allay_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Allusion_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Allusion_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Amiable_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Amiable_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Blare_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Blare_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Blissful_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Blissful_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Brisk_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Brisk_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Bubble_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Bubble_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Cheerful_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Cheerful_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Clear_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Clear_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Comely_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Comely_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Cozy_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Cozy_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Ding_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Ding_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Effervesce_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Effervesce_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Elegant_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Elegant_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Free_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Free_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Hallucination_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Hallucination_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Inbound_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Inbound_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Light_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Light_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Meet_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Meet_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Naivety_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Naivety_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Quickly_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Quickly_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Rhythm_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Rhythm_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Surprise_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Surprise_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/notif_Twinkle_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/notif_Twinkle_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ring_Amenity_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ring_Amenity_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ring_Bounce_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ring_Bounce_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ring_Calm_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ring_Calm_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ring_Lazy_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ring_Lazy_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ring_Mystical_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ring_Mystical_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ring_Whirl_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ring_Whirl_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Alacrity_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Alacrity_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Blues_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Blues_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Cloud_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Cloud_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Cyclotron_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Cyclotron_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Distinct_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Distinct_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Dynamic_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Dynamic_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Eager.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Eager.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Ebullition.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Ebullition.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Echo_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Echo_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Expect_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Expect_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Fanatical_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Fanatical_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Friendship.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Friendship.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Funky_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Funky_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Guitar_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Guitar_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Harping_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Harping_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Highlight_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Highlight_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Idyl_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Idyl_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Innocence_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Innocence_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Jazz_life_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Jazz_life_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Journey_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Journey_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Joyous_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Joyous_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Marimba_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Marimba_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Old_telephone_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Old_telephone_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_OnePlus_tune_rhythm_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_OnePlus_tune_rhythm_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Oneplus_tune_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Oneplus_tune_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Optimistic_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Optimistic_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Piano_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Piano_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Rhythm_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Rhythm_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Sun_glittering_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Sun_glittering_RTP.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/shuntai24k_rtp.bin:$(TARGET_COPY_OUT_ODM)/firmware/shuntai24k_rtp.bin \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/t-jingle_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/t-jingle_RTP.bin \
     vendor/oneplus/sm8350-common/proprietary/odm/firmware/tp/19815/FW_S3908_SAMSUNG.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19815/FW_S3908_SAMSUNG.img \
     vendor/oneplus/sm8350-common/proprietary/odm/firmware/tp/19815/FW_S3908_SAMSUNG_FAE.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19815/FW_S3908_SAMSUNG_FAE.img \
     vendor/oneplus/sm8350-common/proprietary/odm/firmware/tp/19815/LIMIT_S3908_SAMSUNG.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19815/LIMIT_S3908_SAMSUNG.img \
@@ -675,7 +592,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8350-common/proprietary/odm/firmware/tp/21617/FW_FT3658U_SAMSUNG.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/21617/FW_FT3658U_SAMSUNG.img \
     vendor/oneplus/sm8350-common/proprietary/odm/firmware/tp/21617/FW_FT3658U_SAMSUNG_FAE.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/21617/FW_FT3658U_SAMSUNG_FAE.img \
     vendor/oneplus/sm8350-common/proprietary/odm/firmware/tp/21617/LIMIT_FT3658U_SAMSUNG.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/21617/LIMIT_FT3658U_SAMSUNG.img \
-    vendor/oneplus/sm8350-common/proprietary/odm/firmware/wentai24k_rtp.bin:$(TARGET_COPY_OUT_ODM)/firmware/wentai24k_rtp.bin \
     vendor/oneplus/sm8350-common/proprietary/odm/lib/libDeVIS.so:$(TARGET_COPY_OUT_ODM)/lib/libDeVIS.so \
     vendor/oneplus/sm8350-common/proprietary/odm/lib/libaiboost_qnn_sr.so:$(TARGET_COPY_OUT_ODM)/lib/libaiboost_qnn_sr.so \
     vendor/oneplus/sm8350-common/proprietary/odm/lib/libaiboost_sr.so:$(TARGET_COPY_OUT_ODM)/lib/libaiboost_sr.so \
